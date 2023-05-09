@@ -336,5 +336,13 @@
       "bio": "Coding from home",
       "email": "verso1.ctf@protonmail.com",
       "githubProjectUrl": "https://github.com/verso1/github-workshop-repo"
+    },
+    {
+      "name": "Shuvam Gautam",
+      "batch": 2018,
+      "faculty": "Software Engineering",
+      "bio": "Still learning basic",
+      "email": "verso1.ctf@protonmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/gtmshuvam/"
     }
   ]
